@@ -5,7 +5,7 @@
 ---
 
 <details open>
-    <summary> ## Introduction to Python Programming.</summary>
+    <summary> Introduction to Python Programming.</summary>
     1. Score Board Operator.<br>
     2. Nutrition bar ingredient chart.<br>
     3. Measuring the Accuracy of a Disease Detection Model.<br>
