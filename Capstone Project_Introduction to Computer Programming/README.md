@@ -5,7 +5,7 @@
 ---
 
 <details open>
-    <summary>Introduction to Python Programming.</summary>
+    <summary> ## Introduction to Python Programming.</summary>
     1. Score Board Operator.<br>
     2. Nutrition bar ingredient chart.<br>
     3. Measuring the Accuracy of a Disease Detection Model.<br>
@@ -33,7 +33,7 @@
 <details open>
     <summary>Operators in Data Types.</summary>
     1. Let's do some math!<br>
-    2,Compare Number of Apples in Two Baskets Using Comparison Operators.<br>
+    2. Compare Number of Apples in Two Baskets Using Comparison Operators.<br>
     3. Check Bag Weights for Airline Policy Using Logical Operators.<br>
     4. Count Books Containing the Word "Python".
 
@@ -53,7 +53,7 @@
 <details open>
     <summary>Statements, Indentation & Conditionals.</summary>
     1. Inspect Lead Content in Food Batches for Approval.<br>
-    2.Age Verification for Nightclub Entry.<br>
+    2. Age Verification for Nightclub Entry.<br>
     3. Evaluate Client's Progress Toward Weight Loss Goal.<br>
     4. Check Soil Moisture Level to Determine Plant Watering Needs.<br>
     5. Shipping Cost Calculator Based on Weight and Destination.<br>
@@ -69,7 +69,7 @@
     2. Sort Names into Vowel and Consonant Categories Using Nested Loops.<br>
     3. Identify and Print Students Scoring Above 90%.<br>
     4. Count Odd and Even Numbers in a Nested List Using Nested Loops.<br>
-    5.Organize a Chess Tournament with Nested Loops for Player Matchups.
+    5. Organize a Chess Tournament with Nested Loops for Player Matchups.
 </details>
 
 ---
