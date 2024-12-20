@@ -14,9 +14,11 @@
   <img src="images/heart.jpg" alt="" width="300" height="200">  
 </div><br>
 <!-- Title -->
+<p align=center>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=35&duration=5500&pause=900&color=00FFFF&center=true&random=false&width=600&lines=Heart+Disease+Prediction+Project" alt="Typing SVG" />
 </a>
+</p>
 
 
 Heart disease is one of the leading causes of mortality worldwide. Early prediction of heart disease can save lives by enabling timely medical intervention. This project demonstrates the use of machine learning to analyze patient data and predict the likelihood of heart disease.
