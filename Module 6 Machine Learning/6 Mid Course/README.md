@@ -14,37 +14,10 @@
   <img src="images/heart.jpg" alt="" width="300" height="200">  
 </div><br>
 <!-- Title -->
-<p align="center">
-    <div style="
-    color: #00FFFF;
-    test-align:center;
-    font-size: 35px;
-    font-weight: 500;
-    width: 600px;
-    overflow: hidden;
-    white-space: nowrap;
-    border-right: 3px solid #00FFFF;
-    box-sizing: border-box;
-    animation: typing 5.5s steps(40, end), blink 0.9s step-end infinite;
-    ">
-    Heart Disease Prediction Project
-    </div>
-    <style>
-    @keyframes typing {
-        from {
-        width: 0;
-        }
-        to {
-        width: 100%;
-        }
-    }
-    @keyframes blink {
-        50% {
-        border-color: transparent;
-        }
-    }
-    </style>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=35&duration=5500&pause=900&color=00FFFF&center=true&random=false&width=600&lines=Heart+Disease+Prediction+Project" alt="Typing SVG" />
+</a>
+
 
 Heart disease is one of the leading causes of mortality worldwide. Early prediction of heart disease can save lives by enabling timely medical intervention. This project demonstrates the use of machine learning to analyze patient data and predict the likelihood of heart disease.
 
