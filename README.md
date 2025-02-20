@@ -45,6 +45,11 @@
     <p>
         This project involves designing a <strong>relational database</strong> for a <strong>Telegram-based platform</strong> where users can connect for services, jobs, or activities. Users can join groups or channels, post opportunities, browse listings, and communicate via Telegram messaging.
     </p>
+    <p align="center">
+        <a href="https://github.com/KushangShah/AlmaBetter-Projects/blob/main/Module%203%20SQL-Relational%20Databases/Capstone%20Project_%20Relational%20Database(Telegram).docx" download="Telegram_CaseStudy.docx">
+            📥 Download PDF
+        </a>
+    </p>
 </details>
 
 
