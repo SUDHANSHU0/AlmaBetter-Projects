@@ -2,7 +2,7 @@
 
 ---
 1. Introduction to Computer Science
-<details open>
+<details>
     <summary>1. Introduction to Computer Science</summary>
         <p align=center>
         <a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%201%20Introduction%20to%20Computer%20Programming/1.%20Introduction%20to%20Computer%20Programming" target="_blank">📌 Link to project</a><br>
@@ -12,7 +12,7 @@
 
 ---
 
-<details open>
+<details>
     <summary>2. Numerical Programming in Python</summary>
         <h1 align=center>1. Web Scraping</h1>
         <p align=center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%202%20Numerical%20Programming%20in%20Python/2.%20Web%20Scraping" target="_blank">📌 Link to project</a><br>JustWatch is a popular platform that allows users to search for movies and TV shows across multiple streaming services like Netflix, Amazon Prime, Hulu, etc. For this assignment, you will be required to scrape movie and TV show data from JustWatch using Selenium, Python, and BeautifulSoup. Extract data from HTML, not by directly calling their APIs. Then, perform data filtering and analysis using Pandas, and finally, save the results to a CSV file.</p><br>
@@ -36,14 +36,12 @@
 
 ---
 
-<details open>
-    <summary><strong>SQL - Relational Database</strong></summary>
+<details>
+    <summary><strong>3. SQL - Relational Database</strong></summary>
+    <h1>Telegram-Based Connection Platform</h1>
     <p align="center">
         <a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%203%20SQL-Relational%20Databases" target="_blank">
-            📌 View Project
-        </a>
-    </p>
-    <h1>Case Study: Telegram-Based Connection Platform</h1>
+            📌 View Project</a></p>
     <p>
         This project involves designing a <strong>relational database</strong> for a <strong>Telegram-based platform</strong> where users can connect for services, jobs, or activities. Users can join groups or channels, post opportunities, browse listings, and communicate via Telegram messaging.
     </p>
@@ -51,14 +49,12 @@
 
 
 ---
-<details open>
+<details >
     <summary><strong>4. Data Visualization Tools</strong></summary>
+    <h1>Case Study: Superstore Data Visualization</h1>
     <p align="center">
         <a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%204%20Data%20Visualization%20Tools/4.%20%20Tableau" target="_blank">
-            📌 View Project
-        </a>
-    </p>
-    <h1>Case Study: Superstore Data Visualization</h1>
+            📌 View Project</a></p>
     <p>
         This project analyzes a <strong>Superstore dataset</strong> to answer <strong>30 scenario-based questions</strong> using <strong>data visualization</strong>. The focus is on selecting appropriate charts, providing justifications, and deriving insights.
     </p>
@@ -78,7 +74,7 @@
 
 ---
 
-<details open>
+<details>
     <summary><strong>5. Customer Purchase Behavior Analysis</strong></summary>
     <p align=center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%205%20Math/5.%20Customer%20Purchase%20Behavior%20Analysis%20using%20Descriptive%20Statistics" target="_blank">
             📌 View Project</a></p>
@@ -116,7 +112,7 @@
 
 ---
 
-<details open>
+<details>
     <summary><strong>6. Heart Disease Prediction Using Machine Learning</strong></summary>
     <h1 align=center>1. Heart Disease Prediction</h1>
     <p align=center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%206%20Machine%20Learning/6%20Mid%20Course" target="_blank">
