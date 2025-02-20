@@ -6,7 +6,6 @@
     <a href='https://www.almabetter.com/'>
         AlmaBetter
     </a><br>
-    <p>Machine Learning Project</p>
 </div>
         
 <h1 align=center>AlmaBetter Projects</h1>
