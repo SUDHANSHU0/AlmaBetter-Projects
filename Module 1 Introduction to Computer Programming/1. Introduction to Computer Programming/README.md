@@ -125,4 +125,4 @@
 
 ---
 
-Overall Practicing this Code will us enhance onces basic knowlegde for python language.
+Overall Practicing this Code will help us enhance onces basic knowlegde for python language.
