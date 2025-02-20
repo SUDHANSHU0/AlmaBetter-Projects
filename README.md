@@ -1,4 +1,4 @@
-# AlmaBetter Projects
+<h1 align=center>AlmaBetter Projects</h1>
 
 ---
 
