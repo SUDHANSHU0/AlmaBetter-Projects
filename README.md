@@ -1,3 +1,14 @@
+<div align='left'>
+    <a href='https://www.almabetter.com/'>
+        <img height='30px' src='images/almabetter_logo.jpeg'>
+</div>
+<div align='left'>
+    <a href='https://www.almabetter.com/'>
+        AlmaBetter
+    </a><br>
+    <p>Machine Learning Project</p>
+</div>
+        
 <h1 align=center>AlmaBetter Projects</h1>
 
 ---
