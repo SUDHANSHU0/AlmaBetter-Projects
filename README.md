@@ -1,5 +1,5 @@
 <div align='left'>
-    <a href='https://www.almabetter.com/'>
+    <a href='https://www.almabetter.com/' target="_top">
         <img height='30px' src='images/almabetter_logo.jpeg'>
 </div>
 <div align='left'>
