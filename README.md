@@ -81,9 +81,9 @@
 
 <details>
     <summary><strong>5. Customer Purchase Behavior Analysis</strong></summary>
+    <h1>1. Customer Purchase Behavior Analysis</h1>
     <p align=center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%205%20Math/5.%20Customer%20Purchase%20Behavior%20Analysis%20using%20Descriptive%20Statistics" target="_blank">
             📌 View Project</a></p>
-    <h1>1. Customer Purchase Behavior Analysis</h1>
     <p>
         This project leverages <strong>probability theory</strong> and <strong>descriptive statistics</strong> to analyze customer purchase behavior. Using real-world data, it uncovers insights to optimize <strong>marketing strategies</strong> and enhance <strong>offer acceptance rates</strong>.
     </p>
