@@ -1,7 +1,7 @@
 # AlmaBetter Projects
 
 ---
-1. Introduction to Computer Science
+
 <details>
     <summary>1. Introduction to Computer Science</summary>
         <p align=center>
