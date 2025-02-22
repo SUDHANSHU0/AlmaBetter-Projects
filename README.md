@@ -148,8 +148,8 @@
         <li>Utilizing data insights to enhance <strong>healthcare strategies</strong>.</li>
     </ul>
     <br>
-    <h1 align=center>2. Seoul Bike - Bike Sharing Demand Prediction</h1>
-    <p align=center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%206%20Machine%20Learning/6.1%20Seoul%20Bike" target="_blank">
+    <h1 align=center>2. Comming soon
+    <p align=center><a href="" target="_blank">
             📌 UPDATING...</a></p>
 </details>
 
