@@ -39,8 +39,4 @@ I ensured that my submission met all the requirements by providing a well-struct
 
 ---
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
