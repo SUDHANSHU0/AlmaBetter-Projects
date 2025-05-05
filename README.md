@@ -25,7 +25,7 @@
 <details>
     <summary>2. Numerical Programming in Python</summary>
         <h1 align=center>1. Web Scraping</h1>
-        <p align=center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%202%20Numerical%20Programming%20in%20Python/2.%20Web%20Scraping" target="_blank">📌 Link to project</a><br>JustWatch is a popular platform that allows users to search for movies and TV shows across multiple streaming services like Netflix, Amazon Prime, Hulu, etc. For this assignment, you will be required to scrape movie and TV show data from JustWatch using Selenium, Python, and BeautifulSoup. Extract data from HTML, not by directly calling their APIs. Then, perform data filtering and analysis using Pandas, and finally, save the results to a CSV file.</p><br>
+        <p align=center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%204%20Data%20Visualization%20Tools/4.1%20EDA_Dashboard" target="_blank">📌 Link to project</a><br>JustWatch is a popular platform that allows users to search for movies and TV shows across multiple streaming services like Netflix, Amazon Prime, Hulu, etc. For this assignment, you will be required to scrape movie and TV show data from JustWatch using Selenium, Python, and BeautifulSoup. Extract data from HTML, not by directly calling their APIs. Then, perform data filtering and analysis using Pandas, and finally, save the results to a CSV file.</p><br>
         <ln>
         <h1 align=center>2. EDA of Hotel Booking</h1>
         <p align =center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%202%20Numerical%20Programming%20in%20Python/2.1.%20Exploratory%20Data%20Analysis" target="_blank">📌 Link to project</a><br>Exploratory Data Analysis (EDA) is a crucial step in the data analysis process.<br>
@@ -66,7 +66,7 @@
 ---
 <details >
     <summary><strong>4. Data Visualization Tools</strong></summary>
-    <h1>Case Study: Superstore Data Visualization</h1>
+    <h1>1. Case Study: Superstore Data Visualization</h1>
     <p align="center">
         <a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%204%20Data%20Visualization%20Tools/4.%20%20Tableau" target="_blank">
             📌 View Project</a></p>
@@ -82,6 +82,16 @@
     </ul>
     <p align="center">
         <a href="https://github.com/KushangShah/AlmaBetter-Projects/blob/main/Module%204%20Data%20Visualization%20Tools/4.%20%20Tableau/Kushang's%20%20-%20Data%20Vizualization%20Tools.pdf" download="Data_Visualization_Tools.pdf">
+            📥 Download PDF
+        </a>
+        <h1 align=center>2. Transforming EDAs to Dashboards</h1>
+        <p align =center><a href="https://github.com/KushangShah/AlmaBetter-Projects/tree/main/Module%202%20Numerical%20Programming%20in%20Python/2.1.%20Exploratory%20Data%20Analysis" target="_blank">📌 Link to project</a><br><br>
+        Transforming Exploratory Data Analysis (EDA) to Dashboarding is a crucial step in the data analysis process.<br>
+        The dataset comprises information about hotel bookings, including various attributes such as booking dates, customer demographics, booking channels, and reservation details. It encompasses both hotel types: resorts and city hotels.</p>
+        <h3 align=center>Conclusion</h3>
+        <p align=center>Through Dashboarding, valuable insights have been gleaned regarding hotel booking trends, customer behavior, and operational dynamics. These insights can inform strategic decision-making processes, ranging from revenue management to customer experience enhancement. Continued analysis and refinement of these findings will facilitate data-driven optimization of hotel operations and service delivery.</p>
+        <p align="center">
+        <a href="https://github.com/KushangShah/AlmaBetter-Projects/blob/main/Module%204%20Data%20Visualization%20Tools/4.1%20EDA_Dashboard/Final.twbx" download="Data_Visualization_Tools.pdf">
             📥 Download PDF
         </a>
     </p>
